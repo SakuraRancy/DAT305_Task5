@@ -1,2 +1,2 @@
 # DAT305_Task5
-Python coding for the mandatory project of the course DAT305
+This document gives the Python coding for the Task 5 of mandatory project of the course DAT305
